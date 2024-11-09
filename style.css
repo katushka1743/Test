@@ -1,13 +1,13 @@
 .ph1{
-    background-image: url("../5/photo1.avif");
+    background-image: url("img/photo1.avif");
     background-size: cover;
 }
 .ph2{
-    background-image: url("../5/photo2.avif");
+    background-image: url("img/photo2.avif");
     background-size: cover;
 }
 .ph3{
-    background-image: url("../5/photo3.avif");
+    background-image: url("img/photo3.avif");
     background-size: cover;
 }
 
