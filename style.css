@@ -1,0 +1,33 @@
+.ph1{
+    background-image: url("../5/photo1.avif");
+    background-size: cover;
+}
+.ph2{
+    background-image: url("../5/photo2.avif");
+    background-size: cover;
+}
+.ph3{
+    background-image: url("../5/photo3.avif");
+    background-size: cover;
+}
+
+.block{
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 100px;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 20px;
+    opacity: 0;
+    transition: 1s;
+}
+.redText{
+    opacity: 100%;
+    transition: 1s;
+    
+}
+
